@@ -5,9 +5,9 @@
   <subtitle>你再不来，我就下雪了</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://oraingee.github.io/"/>
   <updated>2020-03-28T12:00:40.600Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://oraingee.github.io/</id>
   
   <author>
     <name>orainge</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/26/hello-world/"/>
-    <id>http://yoursite.com/2020/03/26/hello-world/</id>
+    <link href="https://oraingee.github.io/2020/03/26/hello-world/"/>
+    <id>https://oraingee.github.io/2020/03/26/hello-world/</id>
     <published>2020-03-26T07:12:31.715Z</published>
     <updated>2020-03-28T12:00:40.600Z</updated>
     
